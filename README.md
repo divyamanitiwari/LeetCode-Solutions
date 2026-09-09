@@ -18,4 +18,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0767-reorganize-string) |
+## String
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0767-reorganize-string) |
+## Greedy
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0767-reorganize-string) |
+## Sorting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0767-reorganize-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0767-reorganize-string) |
+## Counting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
