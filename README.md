@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0767-reorganize-string) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Binary Search
 |  |
 | ------- |
