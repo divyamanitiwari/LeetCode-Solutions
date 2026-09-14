@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0767-reorganize-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
