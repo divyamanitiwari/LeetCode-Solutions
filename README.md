@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0767-reorganize-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 ## String
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
