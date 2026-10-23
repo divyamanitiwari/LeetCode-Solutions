@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Binary Search
 |  |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
