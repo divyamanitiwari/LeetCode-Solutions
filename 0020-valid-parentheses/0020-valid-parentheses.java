@@ -1,24 +1,26 @@
+
+import java.util.Stack;
+
 class Solution {
     public boolean isValid(String s) {
-        HashMap <Character,Character> map = new HashMap<>();
-
-        map.put('(',')');
-        map.put('{','}');
-        map.put('[',']');
-
         Stack<Character> stack = new Stack<>();
-        for(int i=0;i<s.length();i++){
+
+        for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
-            if(map.containsKey(ch)){
+            if (ch == '(' || ch == '{' || ch == '[') {
                 stack.push(ch);
-            }else{
-                if(stack.isEmpty()){
+            } else {
+                if (stack.isEmpty()) {
                     return false;
                 }
-                if(map.get(stack.peek())!=ch){
+                char top = stack.peek();
+                if ((ch == ')' && top == '(') ||
+                    (ch == ']' && top == '[') ||
+                    (ch == '}' && top == '{')) {
+                    stack.pop();
+                } else {
                     return false;
                 }
-                stack.pop();
             }
         }
         return stack.isEmpty();
