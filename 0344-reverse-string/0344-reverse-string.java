@@ -9,6 +9,5 @@ class Solution {
             s[i]=stack.peek();
             stack.pop();
         }
-        
     }
 }
