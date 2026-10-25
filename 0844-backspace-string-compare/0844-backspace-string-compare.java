@@ -1,0 +1,40 @@
+class Solution {
+    public boolean backspaceCompare(String s, String t) {
+        Deque<Character> stack1 = new ArrayDeque<>();
+        Deque<Character> stack2 = new ArrayDeque<>();
+
+        for(int i=0;i<s.length();i++){
+            char ch = s.charAt(i);
+            if(ch=='#'){
+                if(!stack1.isEmpty()){
+                    stack1.pop();
+                }
+            }else{
+                stack1.push(ch);
+            }
+        }
+
+        for(int i=0;i<t.length();i++){
+            char ch = t.charAt(i);
+            if(ch=='#'){
+                if(!stack2.isEmpty()){
+                    stack2.pop();
+                }
+            }else{
+                stack2.push(ch);
+            }
+        }
+        if(stack1.size()!=stack2.size()){
+            return false;
+        }
+        while(!stack1.isEmpty()){
+            if(stack1.peek()!=stack2.peek()){
+                return false;
+            }else{
+                stack1.pop();
+                stack2.pop();
+            }
+        }
+        return true;
+    }
+}
