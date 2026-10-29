@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Quicksort
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Design
 |  |
 | ------- |
