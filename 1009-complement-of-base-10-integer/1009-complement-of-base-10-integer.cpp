@@ -8,8 +8,8 @@ public:
         }
         while(n>0){
             int bit = n & 1;
-            if(!bit == 1){
-                ans = ans + pow(2,x);
+            if(bit == 0){
+                ans = ans + (1 << x);
             }
             x++;
             n = n >> 1;
