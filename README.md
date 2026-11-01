@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/1009-complement-of-base-10-integer) |
 ## Design
 |  |
 | ------- |
