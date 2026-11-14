@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0767-reorganize-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0767-reorganize-string) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Sliding Window
 |  |
 | ------- |
