@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Binary Search
