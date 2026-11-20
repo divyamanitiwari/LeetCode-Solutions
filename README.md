@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0767-reorganize-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
