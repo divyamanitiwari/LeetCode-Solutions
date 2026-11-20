@@ -9,11 +9,11 @@ public:
                 start++;
             }else if(!isalnum(s[end])){
                 end--;
-            }else if(tolower(s[start]) == tolower(s[end])){
+            }else if(tolower(s[start]) != tolower(s[end])){
+                return false;
+            }else{
                 start++;
                 end--;
-            }else{
-                return false;
             }
         }
         return true;
