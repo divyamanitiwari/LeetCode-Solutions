@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
+        //tc = O(n) and sc = O(n) where n is the number of digit in x ;
         if(x<0){
             return false;
         }
