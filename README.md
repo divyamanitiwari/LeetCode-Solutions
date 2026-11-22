@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Stack
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0567-permutation-in-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 ## String
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
