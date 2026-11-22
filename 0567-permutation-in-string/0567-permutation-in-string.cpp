@@ -24,7 +24,7 @@ public:
             }
             i++;
         }
-        //for next windows 
+        //for next windows
         while(i<s2.size()){
             //add new character
             temp2[s2[i]-'a']++;
