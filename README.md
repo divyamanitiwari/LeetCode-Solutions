@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Greedy
 |  |
