@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/divyamanitiwari/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
